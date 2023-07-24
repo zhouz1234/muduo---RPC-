@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/test.dir/main.cc.o CMakeFiles/test.dir/test.pb.cc.o -o ../../bin/test  -lprotobuf 

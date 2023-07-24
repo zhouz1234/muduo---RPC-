@@ -1,0 +1,5 @@
+/usr/mprpc/test/build/CMakeFiles/rebuild_cache.dir
+/usr/mprpc/test/build/CMakeFiles/edit_cache.dir
+/usr/mprpc/test/build/src/CMakeFiles/rebuild_cache.dir
+/usr/mprpc/test/build/src/CMakeFiles/edit_cache.dir
+/usr/mprpc/test/build/src/CMakeFiles/test.dir
